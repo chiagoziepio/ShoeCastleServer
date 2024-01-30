@@ -315,7 +315,203 @@
     "color": "black",
     "category": "flats"
   }
-]
+],
 
+  "TrendinsPost": [
+    {
+      "id": 1,
+      "img": "https://i.pinimg.com/236x/87/89/c0/8789c0c834781599ea59fc123e1f051e.jpg",
+      "title": "Achieve more through Artificial inteligent ",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 2nd, 2024",
+      "authorname": "John Doe",
+      "authorimg": "https://i.pinimg.com/236x/a7/e8/44/a7e8442fb36c8836258c4cdcb5b63a7a.jpg",
+      "category": "Technology"
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/236x/37/ba/ba/37babac5cd939cb89d78fbea1bd758ed.jpg",
+      "title": "The debate on who is the G.O.A.T between this two star players gets intensified  ",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 8th, 2024",
+      "authorname": "Peter Ifeanyi",
+      "authorimg": "https://i.pinimg.com/236x/88/a7/d6/88a7d68a72dc2c93e0fc00f00ec4a80b.jpg",
+      "category": "Sports"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/236x/42/b3/41/42b341861001b2e60a21a0040e3184a8.jpg",
+      "title": "Facts nobody ever knew about the late legend Kobe Braynt",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 5th, 2024",
+      "authorname": "ShakeandBake",
+      "authorimg": "https://i.pinimg.com/236x/02/b8/5f/02b85f66da8e5d779b891e271cb128bb.jpg",
+      "category": "Sports"
+    }
+  ],
+  "PostFeeds": [
+    {
+      "id": 1,
+      "img": "https://i.pinimg.com/236x/87/89/c0/8789c0c834781599ea59fc123e1f051e.jpg",
+      "title": "Achieve more through Artificial inteligent ",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 2nd, 2024",
+      "authorname": "John Doe",
+      "authorimg": "https://i.pinimg.com/236x/a7/e8/44/a7e8442fb36c8836258c4cdcb5b63a7a.jpg",
+      "category": "technology"
+    },
+    {
+      "id": 2,
+      "img": "https://i.pinimg.com/236x/37/ba/ba/37babac5cd939cb89d78fbea1bd758ed.jpg",
+      "title": "The debate on who is the G.O.A.T between this two star players gets intensified  ",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 8th, 2024",
+      "authorname": "Peter Ifeanyi",
+      "authorimg": "https://i.pinimg.com/236x/88/a7/d6/88a7d68a72dc2c93e0fc00f00ec4a80b.jpg",
+      "category": "Sports"
+    },
+    {
+      "id": 3,
+      "img": "https://i.pinimg.com/236x/42/b3/41/42b341861001b2e60a21a0040e3184a8.jpg",
+      "title": "Facts nobody ever knew about the late legend Kobe Braynt",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 5th, 2024",
+      "authorname": "ShakeandBake",
+      "authorimg": "https://i.pinimg.com/236x/02/b8/5f/02b85f66da8e5d779b891e271cb128bb.jpg",
+      "category": "Sports"
+    },
+    {
+      "id": 4,
+      "img": "https://i.pinimg.com/236x/41/84/56/418456d504f5c34b992b73640a776113.jpg",
+      "title": "A.I: A Robot that help you in carrying out your daly activities",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 10th, 2024",
+      "authorname": "Anderson",
+      "authorimg": "https://i.pinimg.com/236x/a6/8a/3f/a68a3fcca3414ff87bac288571fb4bfa.jpg",
+      "category": "Technology"
+    },
+    {
+      "id": 5,
+      "img": "https://i.pinimg.com/236x/25/62/cc/2562ccc4c9a606e1eb1ade7e5bba7a6d.jpg",
+      "title": "Did you know that  music speaks to your soul",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 10th, 2024",
+      "authorname": "Okoro",
+      "authorimg": "https://i.pinimg.com/236x/39/92/db/3992db3db9d4eeac0c0f24ebb1c1d3b2.jpg",
+      "category": "Music"
+    },
+    {
+      "id": 6,
+      "img": "https://i.pinimg.com/236x/f4/d5/59/f4d5598b2cbf7f9bf734b80cef18eb95.jpg",
+      "title": "A new release in the fashion line",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 9th, 2024",
+      "authorname": "Anderson",
+      "authorimg": "https://i.pinimg.com/236x/a6/8a/3f/a68a3fcca3414ff87bac288571fb4bfa.jpg",
+      "category": "Fashion"
+    },
+    {
+      "id": 7,
+      "img": "https://i.pinimg.com/236x/d8/6b/be/d86bbeed1f189f27894a8f77b0f4d845.jpg",
+      "title": "Lionel messi adds a new trophy to his collection",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 10th, 2024",
+      "authorname": "John Doe",
+      "authorimg": "https://i.pinimg.com/236x/a7/e8/44/a7e8442fb36c8836258c4cdcb5b63a7a.jpg",
+      "category": "Sports"
+    },
+    {
+      "id": 8,
+      "img": "https://i.pinimg.com/236x/19/f8/40/19f840d39f916eae102733645a5c7c06.jpg",
+      "title": "A.I: A Robot that help you in carrying out your daly activities",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 7th, 2024",
+      "authorname": "ShakeandBake",
+      "authorimg": "https://i.pinimg.com/236x/02/b8/5f/02b85f66da8e5d779b891e271cb128bb.jpg",
+      "category": "Technology"
+    },
+    {
+      "id": 9,
+      "img": "https://i.pinimg.com/236x/a6/f5/33/a6f5334d216961ad61cfd7ae2ba269a9.jpg",
+      "title": "An Eygptian Athlet claim to be the fastest man alive",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 10th, 2024",
+      "authorname": "Okoro",
+      "authorimg": "https://i.pinimg.com/236x/39/92/db/3992db3db9d4eeac0c0f24ebb1c1d3b2.jpg",
+      "category": "Sports"
+    },
+    {
+      "id": 10,
+      "img": "https://i.pinimg.com/236x/84/04/2c/84042c3ee69f425c0bf1454e8d5b7b36.jpg",
+      "title": "This here is the most priced art-work in the world ",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 10th, 2024",
+      "authorname": "Peter Ifeanyi",
+      "authorimg": "https://i.pinimg.com/236x/88/a7/d6/88a7d68a72dc2c93e0fc00f00ec4a80b.jpg",
+      "category": "Art"
+    },
+    {
+      "id": 11,
+      "img": "https://i.pinimg.com/236x/8e/7d/67/8e7d67958955da1d75a18b25a993ac4e.jpg",
+      "title": "P.M.I brand lauches the latest design ",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 14th, 2024",
+      "authorname": "Anderson",
+      "authorimg": "https://i.pinimg.com/236x/a6/8a/3f/a68a3fcca3414ff87bac288571fb4bfa.jpg",
+      "category": "Fashion"
+    },
+    {
+      "id": 12,
+      "img": "https://i.pinimg.com/236x/58/3d/f5/583df501a9e35e7b2e9a1abc5137cfff.jpg",
+      "title": "Statistics has proven that men with well built body get more women",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Illo nam ratione repellat quas facilis, quasi corporis iusto soluta quae magni aliquam! Magni ullam aliquid recusandae totam laboriosam! Obcaecati in totam quisquam, vero recusandae iure maiores quibusdam reiciendis dolor commodi vel repellendus placeat non reprehenderit molestias sed, pariatur atque harum voluptatem. Accusamus animi necessitatibus error corrupti molestiae reprehenderit sequi mollitia alias.",
+      "date": "January 3rd, 2024",
+      "authorname": "John Doe",
+      "authorimg": "https://i.pinimg.com/236x/a7/e8/44/a7e8442fb36c8836258c4cdcb5b63a7a.jpg",
+      "category": "Fitness"
+    }
+  ],
+  "AuthorsInfo": [
+    {
+      "id": 1,
+      "name": "John Doe",
+      "userName": "John Doe",
+      "email": "johndoe@gmail.com",
+      "img": "https://i.pinimg.com/236x/a7/e8/44/a7e8442fb36c8836258c4cdcb5b63a7a.jpg",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "Peter Ifeanyi",
+      "userName": "Peter Ifeanyi",
+      "email": "peteryieanyi@gmail.com",
+      "img": "https://i.pinimg.com/236x/88/a7/d6/88a7d68a72dc2c93e0fc00f00ec4a80b.jpg",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "name": "Anderson",
+      "userName": "Anderson",
+      "email": "anderson@gmail.com",
+      "img": "https://i.pinimg.com/236x/a6/8a/3f/a68a3fcca3414ff87bac288571fb4bfa.jpg",
+      "checked": true
+    },
+    {
+      "id": 4,
+      "name": "Okoro",
+      "userName": "Okoro",
+      "email": "okoro@gmail.com",
+      "img": "https://i.pinimg.com/236x/39/92/db/3992db3db9d4eeac0c0f24ebb1c1d3b2.jpg",
+      "checked": false
+    },
+    {
+      "id": 5,
+      "name": "ShakeandBake",
+      "userName": "ShakeandBake",
+      "email": "shakeandbake@gmail.com",
+      "img": "https://i.pinimg.com/236x/02/b8/5f/02b85f66da8e5d779b891e271cb128bb.jpg",
+      "checked": true
+    }
+  ]
 
 }
